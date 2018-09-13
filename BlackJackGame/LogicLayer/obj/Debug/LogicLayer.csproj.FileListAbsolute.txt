@@ -1,0 +1,43 @@
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\LogicLayer\bin\Debug\LogicLayer.dll
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\LogicLayer\bin\Debug\LogicLayer.pdb
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\LogicLayer\bin\Debug\GameObjects.dll
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\LogicLayer\bin\Debug\GameObjects.pdb
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.dll
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.pdb
+F:\BlackJackGame\LogicLayer\bin\Debug\LogicLayer.dll
+F:\BlackJackGame\LogicLayer\bin\Debug\LogicLayer.pdb
+F:\BlackJackGame\LogicLayer\bin\Debug\GameObjects.dll
+F:\BlackJackGame\LogicLayer\bin\Debug\GameObjects.pdb
+F:\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+F:\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.dll
+F:\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.pdb
+G:\BlackJackGame\LogicLayer\bin\Debug\LogicLayer.dll
+G:\BlackJackGame\LogicLayer\bin\Debug\LogicLayer.pdb
+G:\BlackJackGame\LogicLayer\bin\Debug\GameObjects.dll
+G:\BlackJackGame\LogicLayer\bin\Debug\GameObjects.pdb
+G:\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+G:\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.dll
+G:\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.pdb
+E:\BlackJackGame\LogicLayer\bin\Debug\LogicLayer.dll
+E:\BlackJackGame\LogicLayer\bin\Debug\LogicLayer.pdb
+E:\BlackJackGame\LogicLayer\bin\Debug\GameObjects.dll
+E:\BlackJackGame\LogicLayer\bin\Debug\GameObjects.pdb
+E:\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+E:\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.dll
+E:\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.pdb
+E:\NetProgrammingProject\BlackJackGame\LogicLayer\bin\Debug\LogicLayer.dll
+E:\NetProgrammingProject\BlackJackGame\LogicLayer\bin\Debug\LogicLayer.pdb
+E:\NetProgrammingProject\BlackJackGame\LogicLayer\bin\Debug\GameObjects.dll
+E:\NetProgrammingProject\BlackJackGame\LogicLayer\bin\Debug\GameObjects.pdb
+E:\NetProgrammingProject\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+E:\NetProgrammingProject\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.dll
+E:\NetProgrammingProject\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\LogicLayer\bin\Debug\GameObjects.dll
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\LogicLayer\bin\Debug\GameObjects.pdb
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\LogicLayer\obj\Debug\LogicLayer.pdb

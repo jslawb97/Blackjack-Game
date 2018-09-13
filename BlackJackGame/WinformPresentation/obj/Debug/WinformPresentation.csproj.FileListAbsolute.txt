@@ -1,0 +1,85 @@
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.exe.config
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.exe
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.pdb
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\WinformPresentation\bin\Debug\GameObjects.dll
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\WinformPresentation\bin\Debug\LogicLayer.dll
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\WinformPresentation\bin\Debug\GameObjects.pdb
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\WinformPresentation\bin\Debug\LogicLayer.pdb
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.csprojResolveAssemblyReference.cache
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.CardsFile.resources
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.mainFrm.resources
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.Properties.Resources.resources
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.csproj.GenerateResource.Cache
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.exe
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.pdb
+F:\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.exe.config
+F:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.exe
+F:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.pdb
+F:\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.exe
+F:\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.pdb
+F:\BlackJackGame\WinformPresentation\bin\Debug\GameObjects.dll
+F:\BlackJackGame\WinformPresentation\bin\Debug\LogicLayer.dll
+F:\BlackJackGame\WinformPresentation\bin\Debug\GameObjects.pdb
+F:\BlackJackGame\WinformPresentation\bin\Debug\LogicLayer.pdb
+F:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.csprojResolveAssemblyReference.cache
+F:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.CardsFile.resources
+F:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.mainFrm.resources
+F:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.Properties.Resources.resources
+F:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.csproj.GenerateResource.Cache
+G:\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.exe.config
+G:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.exe
+G:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.pdb
+G:\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.exe
+G:\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.pdb
+G:\BlackJackGame\WinformPresentation\bin\Debug\GameObjects.dll
+G:\BlackJackGame\WinformPresentation\bin\Debug\LogicLayer.dll
+G:\BlackJackGame\WinformPresentation\bin\Debug\GameObjects.pdb
+G:\BlackJackGame\WinformPresentation\bin\Debug\LogicLayer.pdb
+G:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.csprojResolveAssemblyReference.cache
+G:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.CardsFile.resources
+G:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.mainFrm.resources
+G:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.Properties.Resources.resources
+G:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.csproj.GenerateResource.Cache
+E:\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.exe.config
+E:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.exe
+E:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.pdb
+E:\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.exe
+E:\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.pdb
+E:\BlackJackGame\WinformPresentation\bin\Debug\GameObjects.dll
+E:\BlackJackGame\WinformPresentation\bin\Debug\LogicLayer.dll
+E:\BlackJackGame\WinformPresentation\bin\Debug\GameObjects.pdb
+E:\BlackJackGame\WinformPresentation\bin\Debug\LogicLayer.pdb
+E:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.csprojResolveAssemblyReference.cache
+E:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.CardsFile.resources
+E:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.mainFrm.resources
+E:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.Properties.Resources.resources
+E:\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.csproj.GenerateResource.Cache
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.exe.config
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.exe
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.pdb
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.exe
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.pdb
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\bin\Debug\GameObjects.dll
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\bin\Debug\LogicLayer.dll
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\bin\Debug\GameObjects.pdb
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\bin\Debug\LogicLayer.pdb
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.csprojResolveAssemblyReference.cache
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.CardsFile.resources
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.mainFrm.resources
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.Properties.Resources.resources
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.csproj.GenerateResource.Cache
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.exe.config
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.exe
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\bin\Debug\WinformPresentation.pdb
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\bin\Debug\GameObjects.dll
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\bin\Debug\LogicLayer.dll
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\bin\Debug\GameObjects.pdb
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\bin\Debug\LogicLayer.pdb
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.csprojResolveAssemblyReference.cache
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.CardsFile.resources
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.mainFrm.resources
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.Properties.Resources.resources
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.csproj.GenerateResource.Cache
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.csproj.CoreCompileInputs.cache
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.exe
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\WinformPresentation\obj\Debug\WinformPresentation.pdb

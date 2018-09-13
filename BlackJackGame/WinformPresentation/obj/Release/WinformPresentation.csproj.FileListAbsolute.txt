@@ -1,0 +1,14 @@
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\bin\Release\WinformPresentation.exe.config
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\bin\Release\WinformPresentation.exe
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\bin\Release\WinformPresentation.pdb
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\bin\Release\GameObjects.dll
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\bin\Release\LogicLayer.dll
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\bin\Release\GameObjects.pdb
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\bin\Release\LogicLayer.pdb
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\obj\Release\WinformPresentation.csprojResolveAssemblyReference.cache
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\obj\Release\WinformPresentation.CardsFile.resources
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\obj\Release\WinformPresentation.mainFrm.resources
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\obj\Release\WinformPresentation.Properties.Resources.resources
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\obj\Release\WinformPresentation.csproj.GenerateResource.Cache
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\obj\Release\WinformPresentation.exe
+E:\NetProgrammingProject\BlackJackGame\WinformPresentation\obj\Release\WinformPresentation.pdb

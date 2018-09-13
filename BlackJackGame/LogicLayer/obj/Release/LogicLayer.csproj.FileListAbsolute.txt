@@ -1,0 +1,7 @@
+E:\NetProgrammingProject\BlackJackGame\LogicLayer\bin\Release\LogicLayer.dll
+E:\NetProgrammingProject\BlackJackGame\LogicLayer\bin\Release\LogicLayer.pdb
+E:\NetProgrammingProject\BlackJackGame\LogicLayer\bin\Release\GameObjects.dll
+E:\NetProgrammingProject\BlackJackGame\LogicLayer\bin\Release\GameObjects.pdb
+E:\NetProgrammingProject\BlackJackGame\LogicLayer\obj\Release\LogicLayer.csprojResolveAssemblyReference.cache
+E:\NetProgrammingProject\BlackJackGame\LogicLayer\obj\Release\LogicLayer.dll
+E:\NetProgrammingProject\BlackJackGame\LogicLayer\obj\Release\LogicLayer.pdb

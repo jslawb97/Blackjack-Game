@@ -1,0 +1,5 @@
+E:\NetProgrammingProject\BlackJackGame\GameObjects\bin\Release\GameObjects.dll
+E:\NetProgrammingProject\BlackJackGame\GameObjects\bin\Release\GameObjects.pdb
+E:\NetProgrammingProject\BlackJackGame\GameObjects\obj\Release\GameObjects.csprojResolveAssemblyReference.cache
+E:\NetProgrammingProject\BlackJackGame\GameObjects\obj\Release\GameObjects.dll
+E:\NetProgrammingProject\BlackJackGame\GameObjects\obj\Release\GameObjects.pdb

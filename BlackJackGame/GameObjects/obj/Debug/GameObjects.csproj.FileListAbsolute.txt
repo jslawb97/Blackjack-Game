@@ -1,0 +1,31 @@
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\GameObjects\bin\Debug\GameObjects.dll
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\GameObjects\bin\Debug\GameObjects.pdb
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\GameObjects\obj\Debug\GameObjects.csprojResolveAssemblyReference.cache
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\GameObjects\obj\Debug\GameObjects.dll
+c:\users\jacob_pc\documents\visual studio 2013\Projects\BlackJackGame\GameObjects\obj\Debug\GameObjects.pdb
+F:\BlackJackGame\GameObjects\bin\Debug\GameObjects.dll
+F:\BlackJackGame\GameObjects\bin\Debug\GameObjects.pdb
+F:\BlackJackGame\GameObjects\obj\Debug\GameObjects.csprojResolveAssemblyReference.cache
+F:\BlackJackGame\GameObjects\obj\Debug\GameObjects.dll
+F:\BlackJackGame\GameObjects\obj\Debug\GameObjects.pdb
+G:\BlackJackGame\GameObjects\bin\Debug\GameObjects.dll
+G:\BlackJackGame\GameObjects\bin\Debug\GameObjects.pdb
+G:\BlackJackGame\GameObjects\obj\Debug\GameObjects.csprojResolveAssemblyReference.cache
+G:\BlackJackGame\GameObjects\obj\Debug\GameObjects.dll
+G:\BlackJackGame\GameObjects\obj\Debug\GameObjects.pdb
+E:\BlackJackGame\GameObjects\bin\Debug\GameObjects.dll
+E:\BlackJackGame\GameObjects\bin\Debug\GameObjects.pdb
+E:\BlackJackGame\GameObjects\obj\Debug\GameObjects.csprojResolveAssemblyReference.cache
+E:\BlackJackGame\GameObjects\obj\Debug\GameObjects.dll
+E:\BlackJackGame\GameObjects\obj\Debug\GameObjects.pdb
+E:\NetProgrammingProject\BlackJackGame\GameObjects\bin\Debug\GameObjects.dll
+E:\NetProgrammingProject\BlackJackGame\GameObjects\bin\Debug\GameObjects.pdb
+E:\NetProgrammingProject\BlackJackGame\GameObjects\obj\Debug\GameObjects.csprojResolveAssemblyReference.cache
+E:\NetProgrammingProject\BlackJackGame\GameObjects\obj\Debug\GameObjects.dll
+E:\NetProgrammingProject\BlackJackGame\GameObjects\obj\Debug\GameObjects.pdb
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\GameObjects\bin\Debug\GameObjects.dll
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\GameObjects\bin\Debug\GameObjects.pdb
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\GameObjects\obj\Debug\GameObjects.csprojResolveAssemblyReference.cache
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\GameObjects\obj\Debug\GameObjects.csproj.CoreCompileInputs.cache
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\GameObjects\obj\Debug\GameObjects.dll
+C:\Users\JSlaw\Downloads\BlackJackGameFINAL (1)\BlackJackGame\GameObjects\obj\Debug\GameObjects.pdb
